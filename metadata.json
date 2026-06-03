@@ -1,0 +1,9 @@
+{
+  "name": "AstroCam",
+  "description": "Astrophotography camera with manual controls for ISO, shutter speed, focus, interval DNG stacking, noise reduction, and hot pixel mapping.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.WRITE_EXTERNAL_STORAGE"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
